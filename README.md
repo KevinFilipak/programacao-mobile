@@ -1,5 +1,5 @@
 # Programação Mobile
 #
 #
-#Nome: Kevin Filipak
-#Disciplina: Desenvolvimento para Dispositivos Móveis
+Nome: Kevin Filipak
+Disciplina: Desenvolvimento para Dispositivos Móveis
