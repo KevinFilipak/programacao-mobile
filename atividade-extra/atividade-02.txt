@@ -1,0 +1,14 @@
+Resumo da Aula de Desenvolvimento de Dispositivos Móveis
+
+- As atividades são cadastradas no androidManifest.
+- Para acessar componentes de tela utiliza-se o findViewById, caso seja um botão, utiliza-se o findViewById<Button>(R.id.nomedocomponente)
+- Para fazer o DataBinding é necessário utilizar bibliotecas. Elas fazem o trabalho de declaração automatica dos componentes. Isso faz com que economize tempo ao digitar os códigos. 
+- Databinding deve ser habilitado no gradle, modificar nos arquivos do layout e substituir o chamado do setContentView()
+- Databinding além de facilitar em códigos ele ajuda na- Dependencias é o local que devemos colocar todas as bibliotecas que desejamos usar.
+- Para publicar a aplicação na play store é sempre necessário alterar a versão do projeto.
+- Existem diferentes formas de cadastrar eventos em um componente.
+	- Via Lambda (usado quando o evento não precisa ser reparoveitado, são poucas linhas de código).
+	- Via método (usado quando o evento precisa ser reaproveitado, podem ser função complexas)
+- Tudo que começa em <on> termina em <listener> é um evento.
+- Os eventos são disparados pelos componentes após a interação do usuário.
+- Alguns componentes só aceitam um evento, porém existe componentes que aceitam mais, depende do que for passado para ele.
