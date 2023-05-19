@@ -1,0 +1,11 @@
+Resumo da Aula de Desenvolvimento de Dispositivos Móveis - 19/05/2023
+
+- Fragmento é uma tela que se acopla a uma atividade, dentro de uma atividade é possivel acoplar diversos fragmentos.
+- Atividade e Fragmento tem ciclos de vida.
+- Na criação de fragmento, temos a mudança de status, e ele se interliga a atividade.
+- O fragmento não pode ser criado antes da atividade.
+- Quando o fragmento está ativo, significa que ele esta interagindo
+- Fragmento pode ser reaproveitado em outros projetos ou contextos.
+- Valor absoluto só deve ser usado em imagem. Nunca em botão e em Constrains.
+- É necessário criar uma pasta dentro do res para subdividir e dentro dela criar um resource, como por exemplo a criação de um Menu
+- 
