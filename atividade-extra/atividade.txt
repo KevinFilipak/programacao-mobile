@@ -1,0 +1,33 @@
+Resumo da Aula de Desenvolvimento de Dispositivos Móveis
+
+- Dividir todo o projeto em pastas, assim ficando melhor a organização do projeto.
+- Seguir sempre um padrão para se organizar, e também utilizar um dominio para não se perder.
+- Layout é feito com um código XML.
+- Para utilizar os resources, utilizasse a classe R.
+- Toda view ou viewgroup deve ter dois atributos, layout read e layout , se não tiver os dois, vai dar erro.
+- O tamanho de pixel é diferente de um celular para outro, pois os tamanhos da tela variam.
+- Sempre pensar na responsividade do aplicativo.
+- Existem parametros no activy_main que definimos os tamanhos, sendo eles, layout_width, layout_height.
+- Orientation mostra se os filhos serão colocados na horizontal ou vertical. Podendo ser utilizado os pixel fixos ou o match_parent, que acompanha o tamanho do pai ou o wrap_content que acompanha o tamanho do filho.
+- Existe também o padding e a margin, que serve para dar um "respiro" no layout e deixar ele mais elegante.
+- Para utilizar o margin, deve se usar start e end ao invés de utilizar left e right.
+- Para puxar o valor de qualquer outro resource basta usar o @nomedoresource.
+- Para um bom projeto, é necessário utilizar os values, para pré-definir padrões de cores, dimensões e strings, isso ajuda na hora de criar e orgnaizar qualquer tela.
+- Utilizar espaçamento sempre, para a aplicação ficar mais organizada. Não deixar muita informação agrupada.
+- Utilizar TextInputLayout como caixa de texto. Sendo ele mais moderno.
+- imeOption é utilizado para definir como o teclado irá se comportar, exemplo: ao clicar no enter, pule linha ou até mesmo, ao clicar em Enter ele envie o formulário por exemplo. Existem diversos modelos para utilizar no imeOption.
+- inputType podemos personalizar por exemplo na hora de formatar o campo, por exemplo utilizar email, deixar a primeira letra maiscula, configurar para que sugira os e-mails já utilizados naquele campo, ou deixar o campo apenas para digitar números.
+- LinearLayout é utilizado para criar um campo em linha.
+- ScrollView cria um scroll, sendo ele Vertical ou Horizontal.
+- Card é utilizado para deixar mais bonito e organizado a aplicação, é muito recomendado a ser utilizado
+- Utilizar sempre sp e dp no texto para acompanhar o modo acessibilidade do celular.
+- FrameOut vai empilhar os filhos.
+- Utilizar LinearLayout para empilhar.
+- Para acessar um atributo, usar sempre o FindByID
+- Toda imagem deve ter um nome, aceita a maior parte de formatos de imagem, e apartir do Android 8 pode ser utilizado SVG.
+- Toda imagem deve ter uma restrição na horizontal e vertical.
+- A imagem tem que ser ancorada a um pai para não acabar saindo da tela.
+- Montar sempre o esboço do aplicativo para depois começar a construir dentro do Aplicativo.
+- Para melhor organização, começar sempre a montar o design do topo esquerdo para direito e parte inferior.
+- Para alinhar tudo, são necessários fazer as restrições, para que os componentes não fiquem fora de área e posição.
+- É melhor montar tudo dentro de um Card, para quando tiver uma modificação, fazer ela apenas no Card.
