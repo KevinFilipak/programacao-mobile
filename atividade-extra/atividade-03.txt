@@ -8,4 +8,3 @@ Resumo da Aula de Desenvolvimento de Dispositivos Móveis - 19/05/2023
 - Fragmento pode ser reaproveitado em outros projetos ou contextos.
 - Valor absoluto só deve ser usado em imagem. Nunca em botão e em Constrains.
 - É necessário criar uma pasta dentro do res para subdividir e dentro dela criar um resource, como por exemplo a criação de um Menu
-- 
