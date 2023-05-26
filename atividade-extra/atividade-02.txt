@@ -1,4 +1,4 @@
-Resumo da Aula de Desenvolvimento de Dispositivos Móveis
+Resumo da Aula de Desenvolvimento de Dispositivos Móveis - 12/05/2023
 
 - As atividades são cadastradas no androidManifest.
 - Para acessar componentes de tela utiliza-se o findViewById, caso seja um botão, utiliza-se o findViewById<Button>(R.id.nomedocomponente)
