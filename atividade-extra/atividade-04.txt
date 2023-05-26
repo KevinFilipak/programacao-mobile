@@ -1,0 +1,18 @@
+Resumo da Aula de Desenvolvimento de Dispositivos Móveis - 26/05/2023
+
+- Servidores HTTP (Apache, Tomcat, Nginx, IIS)  
+- Banco de Dados Relacional (MySql, SQL Server, Postgree)
+- Banco de dados noSQL (MongoDB, Firebase)
+- Comunicação do servidor de aplicação pode ser junto ou separado.
+- A comunicação é feita através da arquitetura Orientada a Serviço
+- SOAP, Simple object acess protocol, utiliza XML sobre HTTP para a comunicação
+- XML começou a ser usado em 1996, representação de documento semi-estruturado, é composto por elementos e atributos.
+- Rest é padrão de mercado, é utilizado para criação de web-service.
+- Clientes magros são clientes que compreendem uma unica camada, não apresentam codigo de aplicação personalizado, são totalmente dependentes do servidor e utilizam navegadores web.
+- Clientes gordos possuem tres camadas, interface com usuario, logica de negocio e acesso de dados. comunicação entre clientes e servidor é baixo. Ex: WhatsApp
+
+Tipos de aplicaçoes:
+- Nativo, desenvolvido direto na plataforma Android. Auto desempenho, utiliza o ecosistema da plataforma, necessita maior esforço de desempenho
+- Compile-to-native, Ambiente de terceiro, aplicação compilada para diversas plataformas, dificuldade no dominio dos framworks, exemplos: React Native, Native Script, Xamann
+- Hibrida, facil para desenvolvedores WEB, executam em uma webview - pode ficar lento, Exemplo: PhoneGap, Cordova, Ionic.
+- Progressive Web App, Facil de desenvolver, não sao aplciativos reais, executam no navegador. 
