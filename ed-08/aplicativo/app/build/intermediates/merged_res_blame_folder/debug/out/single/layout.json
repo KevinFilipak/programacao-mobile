@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "br.com.koruthos.cursoandroid.app-mergeDebugResources-34:/layout/fragment_tela1.xml",
+        "source": "br.com.koruthos.cursoandroid.app-main-37:/layout/fragment_tela1.xml"
+    },
+    {
+        "merged": "br.com.koruthos.cursoandroid.app-mergeDebugResources-34:/layout/activity_fragmento.xml",
+        "source": "br.com.koruthos.cursoandroid.app-main-37:/layout/activity_fragmento.xml"
+    },
+    {
+        "merged": "br.com.koruthos.cursoandroid.app-mergeDebugResources-34:/layout/fragment_tela2.xml",
+        "source": "br.com.koruthos.cursoandroid.app-main-37:/layout/fragment_tela2.xml"
+    }
+]

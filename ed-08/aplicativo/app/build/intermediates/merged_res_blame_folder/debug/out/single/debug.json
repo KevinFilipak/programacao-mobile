@@ -1,0 +1,254 @@
+[
+    {
+        "merged": "br.com.koruthos.cursoandroid.app-merged_res-35:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "br.com.koruthos.cursoandroid.app-main-37:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "br.com.koruthos.cursoandroid.app-merged_res-35:/drawable_baseline_waving_hand_24.xml.flat",
+        "source": "br.com.koruthos.cursoandroid.app-main-37:/drawable/baseline_waving_hand_24.xml"
+    },
+    {
+        "merged": "br.com.koruthos.cursoandroid.app-merged_res-35:/drawable_ic_tela1.xml.flat",
+        "source": "br.com.koruthos.cursoandroid.app-main-37:/drawable/ic_tela1.xml"
+    },
+    {
+        "merged": "br.com.koruthos.cursoandroid.app-merged_res-35:/drawable-anydpi-v24_baseline_work_outline_24.xml.flat",
+        "source": "br.com.koruthos.cursoandroid.app-pngs-30:/drawable-anydpi-v24/baseline_work_outline_24.xml"
+    },
+    {
+        "merged": "br.com.koruthos.cursoandroid.app-merged_res-35:/drawable_baseline_place_24_orange.xml.flat",
+        "source": "br.com.koruthos.cursoandroid.app-main-37:/drawable/baseline_place_24_orange.xml"
+    },
+    {
+        "merged": "br.com.koruthos.cursoandroid.app-merged_res-35:/drawable-anydpi-v24_baseline_maps_ugc_24.xml.flat",
+        "source": "br.com.koruthos.cursoandroid.app-pngs-30:/drawable-anydpi-v24/baseline_maps_ugc_24.xml"
+    },
+    {
+        "merged": "br.com.koruthos.cursoandroid.app-merged_res-35:/xml_data_extraction_rules.xml.flat",
+        "source": "br.com.koruthos.cursoandroid.app-main-37:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "br.com.koruthos.cursoandroid.app-merged_res-35:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "br.com.koruthos.cursoandroid.app-pngs-30:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "br.com.koruthos.cursoandroid.app-merged_res-35:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "br.com.koruthos.cursoandroid.app-main-37:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "br.com.koruthos.cursoandroid.app-merged_res-35:/drawable_watermelon.png.flat",
+        "source": "br.com.koruthos.cursoandroid.app-main-37:/drawable/watermelon.png"
+    },
+    {
+        "merged": "br.com.koruthos.cursoandroid.app-merged_res-35:/layout_fragment_tela2.xml.flat",
+        "source": "br.com.koruthos.cursoandroid.app-main-37:/layout/fragment_tela2.xml"
+    },
+    {
+        "merged": "br.com.koruthos.cursoandroid.app-merged_res-35:/drawable_baseline_data_saver_off_24.xml.flat",
+        "source": "br.com.koruthos.cursoandroid.app-main-37:/drawable/baseline_data_saver_off_24.xml"
+    },
+    {
+        "merged": "br.com.koruthos.cursoandroid.app-merged_res-35:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "br.com.koruthos.cursoandroid.app-main-37:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "br.com.koruthos.cursoandroid.app-merged_res-35:/drawable-xxxhdpi_baseline_work_outline_24.png.flat",
+        "source": "br.com.koruthos.cursoandroid.app-pngs-30:/drawable-xxxhdpi/baseline_work_outline_24.png"
+    },
+    {
+        "merged": "br.com.koruthos.cursoandroid.app-merged_res-35:/drawable-mdpi_baseline_maps_ugc_24.png.flat",
+        "source": "br.com.koruthos.cursoandroid.app-pngs-30:/drawable-mdpi/baseline_maps_ugc_24.png"
+    },
+    {
+        "merged": "br.com.koruthos.cursoandroid.app-merged_res-35:/drawable-xhdpi_baseline_work_outline_24.png.flat",
+        "source": "br.com.koruthos.cursoandroid.app-pngs-30:/drawable-xhdpi/baseline_work_outline_24.png"
+    },
+    {
+        "merged": "br.com.koruthos.cursoandroid.app-merged_res-35:/drawable_propaganda1.png.flat",
+        "source": "br.com.koruthos.cursoandroid.app-main-37:/drawable/propaganda1.png"
+    },
+    {
+        "merged": "br.com.koruthos.cursoandroid.app-merged_res-35:/drawable-ldpi_baseline_work_outline_24.png.flat",
+        "source": "br.com.koruthos.cursoandroid.app-pngs-30:/drawable-ldpi/baseline_work_outline_24.png"
+    },
+    {
+        "merged": "br.com.koruthos.cursoandroid.app-merged_res-35:/drawable_egg.png.flat",
+        "source": "br.com.koruthos.cursoandroid.app-main-37:/drawable/egg.png"
+    },
+    {
+        "merged": "br.com.koruthos.cursoandroid.app-merged_res-35:/drawable_chickenleg2.png.flat",
+        "source": "br.com.koruthos.cursoandroid.app-main-37:/drawable/chickenleg2.png"
+    },
+    {
+        "merged": "br.com.koruthos.cursoandroid.app-merged_res-35:/drawable-hdpi_baseline_maps_ugc_24.png.flat",
+        "source": "br.com.koruthos.cursoandroid.app-pngs-30:/drawable-hdpi/baseline_maps_ugc_24.png"
+    },
+    {
+        "merged": "br.com.koruthos.cursoandroid.app-merged_res-35:/drawable_ic_salvar.xml.flat",
+        "source": "br.com.koruthos.cursoandroid.app-main-37:/drawable/ic_salvar.xml"
+    },
+    {
+        "merged": "br.com.koruthos.cursoandroid.app-merged_res-35:/drawable-xxhdpi_baseline_work_outline_24.png.flat",
+        "source": "br.com.koruthos.cursoandroid.app-pngs-30:/drawable-xxhdpi/baseline_work_outline_24.png"
+    },
+    {
+        "merged": "br.com.koruthos.cursoandroid.app-merged_res-35:/drawable_baseline_lens_24.xml.flat",
+        "source": "br.com.koruthos.cursoandroid.app-main-37:/drawable/baseline_lens_24.xml"
+    },
+    {
+        "merged": "br.com.koruthos.cursoandroid.app-merged_res-35:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "br.com.koruthos.cursoandroid.app-main-37:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "br.com.koruthos.cursoandroid.app-merged_res-35:/drawable_pizza.png.flat",
+        "source": "br.com.koruthos.cursoandroid.app-main-37:/drawable/pizza.png"
+    },
+    {
+        "merged": "br.com.koruthos.cursoandroid.app-merged_res-35:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "br.com.koruthos.cursoandroid.app-main-37:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "br.com.koruthos.cursoandroid.app-merged_res-35:/drawable-hdpi_baseline_work_outline_24.png.flat",
+        "source": "br.com.koruthos.cursoandroid.app-pngs-30:/drawable-hdpi/baseline_work_outline_24.png"
+    },
+    {
+        "merged": "br.com.koruthos.cursoandroid.app-merged_res-35:/layout_fragment_tela1.xml.flat",
+        "source": "br.com.koruthos.cursoandroid.app-main-37:/layout/fragment_tela1.xml"
+    },
+    {
+        "merged": "br.com.koruthos.cursoandroid.app-merged_res-35:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "br.com.koruthos.cursoandroid.app-main-37:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "br.com.koruthos.cursoandroid.app-merged_res-35:/layout_activity_fragmento.xml.flat",
+        "source": "br.com.koruthos.cursoandroid.app-main-37:/layout/activity_fragmento.xml"
+    },
+    {
+        "merged": "br.com.koruthos.cursoandroid.app-merged_res-35:/drawable_baseline_star_24.xml.flat",
+        "source": "br.com.koruthos.cursoandroid.app-main-37:/drawable/baseline_star_24.xml"
+    },
+    {
+        "merged": "br.com.koruthos.cursoandroid.app-merged_res-35:/drawable_baseline_data_thresholding_24.xml.flat",
+        "source": "br.com.koruthos.cursoandroid.app-main-37:/drawable/baseline_data_thresholding_24.xml"
+    },
+    {
+        "merged": "br.com.koruthos.cursoandroid.app-merged_res-35:/drawable_melancia.png.flat",
+        "source": "br.com.koruthos.cursoandroid.app-main-37:/drawable/melancia.png"
+    },
+    {
+        "merged": "br.com.koruthos.cursoandroid.app-merged_res-35:/drawable_baseline_search_24.xml.flat",
+        "source": "br.com.koruthos.cursoandroid.app-main-37:/drawable/baseline_search_24.xml"
+    },
+    {
+        "merged": "br.com.koruthos.cursoandroid.app-merged_res-35:/xml_backup_rules.xml.flat",
+        "source": "br.com.koruthos.cursoandroid.app-main-37:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "br.com.koruthos.cursoandroid.app-merged_res-35:/drawable_ic_delete.xml.flat",
+        "source": "br.com.koruthos.cursoandroid.app-main-37:/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "br.com.koruthos.cursoandroid.app-merged_res-35:/drawable_perfil_peach.jpg.flat",
+        "source": "br.com.koruthos.cursoandroid.app-main-37:/drawable/perfil_peach.jpg"
+    },
+    {
+        "merged": "br.com.koruthos.cursoandroid.app-merged_res-35:/drawable_perfil_luigi.jpg.flat",
+        "source": "br.com.koruthos.cursoandroid.app-main-37:/drawable/perfil_luigi.jpg"
+    },
+    {
+        "merged": "br.com.koruthos.cursoandroid.app-merged_res-35:/drawable_baseline_place_24.xml.flat",
+        "source": "br.com.koruthos.cursoandroid.app-main-37:/drawable/baseline_place_24.xml"
+    },
+    {
+        "merged": "br.com.koruthos.cursoandroid.app-merged_res-35:/drawable-xxhdpi_baseline_maps_ugc_24.png.flat",
+        "source": "br.com.koruthos.cursoandroid.app-pngs-30:/drawable-xxhdpi/baseline_maps_ugc_24.png"
+    },
+    {
+        "merged": "br.com.koruthos.cursoandroid.app-merged_res-35:/drawable_ic_launcher_background.xml.flat",
+        "source": "br.com.koruthos.cursoandroid.app-main-37:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "br.com.koruthos.cursoandroid.app-merged_res-35:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "br.com.koruthos.cursoandroid.app-main-37:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "br.com.koruthos.cursoandroid.app-merged_res-35:/drawable_perfil.jpg.flat",
+        "source": "br.com.koruthos.cursoandroid.app-main-37:/drawable/perfil.jpg"
+    },
+    {
+        "merged": "br.com.koruthos.cursoandroid.app-merged_res-35:/menu_nav_fragmento.xml.flat",
+        "source": "br.com.koruthos.cursoandroid.app-main-37:/menu/nav_fragmento.xml"
+    },
+    {
+        "merged": "br.com.koruthos.cursoandroid.app-merged_res-35:/layout_fragment_tela4.xml.flat",
+        "source": "br.com.koruthos.cursoandroid.app-main-37:/layout/fragment_tela4.xml"
+    },
+    {
+        "merged": "br.com.koruthos.cursoandroid.app-merged_res-35:/drawable-xhdpi_baseline_maps_ugc_24.png.flat",
+        "source": "br.com.koruthos.cursoandroid.app-pngs-30:/drawable-xhdpi/baseline_maps_ugc_24.png"
+    },
+    {
+        "merged": "br.com.koruthos.cursoandroid.app-merged_res-35:/drawable-mdpi_baseline_work_outline_24.png.flat",
+        "source": "br.com.koruthos.cursoandroid.app-pngs-30:/drawable-mdpi/baseline_work_outline_24.png"
+    },
+    {
+        "merged": "br.com.koruthos.cursoandroid.app-merged_res-35:/drawable_pratomacarrao.png.flat",
+        "source": "br.com.koruthos.cursoandroid.app-main-37:/drawable/pratomacarrao.png"
+    },
+    {
+        "merged": "br.com.koruthos.cursoandroid.app-merged_res-35:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "br.com.koruthos.cursoandroid.app-main-37:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "br.com.koruthos.cursoandroid.app-merged_res-35:/drawable_mexicano.png.flat",
+        "source": "br.com.koruthos.cursoandroid.app-main-37:/drawable/mexicano.png"
+    },
+    {
+        "merged": "br.com.koruthos.cursoandroid.app-merged_res-35:/drawable_btn_borda.xml.flat",
+        "source": "br.com.koruthos.cursoandroid.app-main-37:/drawable/btn_borda.xml"
+    },
+    {
+        "merged": "br.com.koruthos.cursoandroid.app-merged_res-35:/drawable_ic_tela2.xml.flat",
+        "source": "br.com.koruthos.cursoandroid.app-main-37:/drawable/ic_tela2.xml"
+    },
+    {
+        "merged": "br.com.koruthos.cursoandroid.app-merged_res-35:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "br.com.koruthos.cursoandroid.app-main-37:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "br.com.koruthos.cursoandroid.app-merged_res-35:/drawable_baseline_mic_none_24.xml.flat",
+        "source": "br.com.koruthos.cursoandroid.app-main-37:/drawable/baseline_mic_none_24.xml"
+    },
+    {
+        "merged": "br.com.koruthos.cursoandroid.app-merged_res-35:/layout_fragment_tela3.xml.flat",
+        "source": "br.com.koruthos.cursoandroid.app-main-37:/layout/fragment_tela3.xml"
+    },
+    {
+        "merged": "br.com.koruthos.cursoandroid.app-merged_res-35:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "br.com.koruthos.cursoandroid.app-main-37:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "br.com.koruthos.cursoandroid.app-merged_res-35:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "br.com.koruthos.cursoandroid.app-main-37:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "br.com.koruthos.cursoandroid.app-merged_res-35:/menu_menu_fragmento.xml.flat",
+        "source": "br.com.koruthos.cursoandroid.app-main-37:/menu/menu_fragmento.xml"
+    },
+    {
+        "merged": "br.com.koruthos.cursoandroid.app-merged_res-35:/drawable-ldpi_baseline_maps_ugc_24.png.flat",
+        "source": "br.com.koruthos.cursoandroid.app-pngs-30:/drawable-ldpi/baseline_maps_ugc_24.png"
+    },
+    {
+        "merged": "br.com.koruthos.cursoandroid.app-merged_res-35:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "br.com.koruthos.cursoandroid.app-main-37:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "br.com.koruthos.cursoandroid.app-merged_res-35:/drawable-xxxhdpi_baseline_maps_ugc_24.png.flat",
+        "source": "br.com.koruthos.cursoandroid.app-pngs-30:/drawable-xxxhdpi/baseline_maps_ugc_24.png"
+    },
+    {
+        "merged": "br.com.koruthos.cursoandroid.app-merged_res-35:/drawable_fatiapizza.jpg.flat",
+        "source": "br.com.koruthos.cursoandroid.app-main-37:/drawable/fatiapizza.jpg"
+    }
+]

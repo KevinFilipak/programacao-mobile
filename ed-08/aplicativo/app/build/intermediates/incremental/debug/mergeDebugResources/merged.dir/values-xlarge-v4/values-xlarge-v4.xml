@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="abc_dialog_fixed_height_major" type="dimen">60%</item>
+    <item name="abc_dialog_fixed_height_minor" type="dimen">90%</item>
+    <item name="abc_dialog_fixed_width_major" type="dimen">50%</item>
+    <item name="abc_dialog_fixed_width_minor" type="dimen">70%</item>
+    <item name="abc_dialog_min_width_major" type="dimen">45%</item>
+    <item name="abc_dialog_min_width_minor" type="dimen">72%</item>
+    <dimen name="font_large">18sp</dimen>
+    <dimen name="font_larger">22sp</dimen>
+    <dimen name="font_normal">14sp</dimen>
+    <dimen name="font_small">12sp</dimen>
+    <dimen name="font_smaller">11sp</dimen>
+    <dimen name="icon_large">32dp</dimen>
+    <dimen name="icon_larger">48dp</dimen>
+    <dimen name="icon_normal">24dp</dimen>
+    <dimen name="icon_small">18dp</dimen>
+    <dimen name="icon_smaller">16dp</dimen>
+    <dimen name="image_huge">96dp</dimen>
+    <dimen name="image_large">40dp</dimen>
+    <dimen name="image_larger">72dp</dimen>
+    <dimen name="image_normal">30dp</dimen>
+    <dimen name="image_small">24dp</dimen>
+    <dimen name="image_smaller">16dp</dimen>
+    <dimen name="image_tiny">8dp</dimen>
+    <dimen name="spacing_huge">72dp</dimen>
+    <dimen name="spacing_large">56dp</dimen>
+    <dimen name="spacing_larger">64dp</dimen>
+    <dimen name="spacing_normal">48dp</dimen>
+    <dimen name="spacing_small">32dp</dimen>
+    <dimen name="spacing_smaller">24dp</dimen>
+    <dimen name="spacing_tiny">16dp</dimen>
+</resources>
