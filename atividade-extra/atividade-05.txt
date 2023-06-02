@@ -1,0 +1,6 @@
+Resumo da Aula de Desenvolvimento de Dispositivos Móveis - 02/06/2023
+
+- Volley é uma biblioteca para chamadas de API do google, mas não pode ser chamado na thread principal.
+- Todo ano é necessário fazer a atualização do SDK.
+- Cada API tem sua dinamica e funciona de forma diferente, e tem seu mapeamento diferente.
+- Todos os componentes que estão na respostas precisam estar na classe.
