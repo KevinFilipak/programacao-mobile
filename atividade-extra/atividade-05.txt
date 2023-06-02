@@ -4,3 +4,9 @@ Resumo da Aula de Desenvolvimento de Dispositivos Móveis - 02/06/2023
 - Todo ano é necessário fazer a atualização do SDK.
 - Cada API tem sua dinamica e funciona de forma diferente, e tem seu mapeamento diferente.
 - Todos os componentes que estão na respostas precisam estar na classe.
+- jsonschema2pojo é o site utilizado para transformar o json para uma classe.
+- Callback recebe uma chamada que vem na resposta.
+- Se for usar poucas vezes, podemos gerar uma classe anonima.
+- Callback precisa estar na API Service.
+- OnResponde se a resposta deu certo
+- OnFailed se a resposta deu falha.
