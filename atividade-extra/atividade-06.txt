@@ -2,7 +2,6 @@ Resumo da Aula de Desenvolvimento de Dispositivos Móveis - 16/06/2023
 
 - Cada aplicativo tem sua area de trabalho privada, onde todos os arquivos ficam dentro do próprio aplicativo, sendo que pode salvar na área publica caso seja uma opção desejada.
 
-
 Arquivo local: txt(csv,json,xml), dat (binário)
 - Sem internet se torna + rápido.
 - É mais fácil. 
