@@ -1,0 +1,19 @@
+Resumo da Aula de Desenvolvimento de Dispositivos Móveis - 16/06/2023
+
+Arquivo local: txt(csv,json,xml), dat (binário)
+- Sem internet se torna + rápido
+- É mais fácil. 
+- Ocúpa mais espaço em disco e mais memória
+- Leitura
+- Relacionamento
+- Atualização.
+
+Sqlite: banco de dados
+- Suporta maior quantidade de dados. 
+- Mais facilidade ao localizar o dado.
+- Mais facil inserir, atualizar, deletar. 
+- Mais lento.
+- Relacionamento complexo
+- É necessário mais código
+
+
