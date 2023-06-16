@@ -1,5 +1,8 @@
 Resumo da Aula de Desenvolvimento de Dispositivos Móveis - 16/06/2023
 
+- Cada aplicativo tem sua area de trabalho privada, onde todos os arquivos ficam dentro do próprio aplicativo, sendo que pode salvar na área publica caso seja uma opção desejada.
+
+
 Arquivo local: txt(csv,json,xml), dat (binário)
 - Sem internet se torna + rápido.
 - É mais fácil. 
@@ -16,7 +19,11 @@ Sqlite: banco de dados
 - Relacionamento complexo.
 - É necessário mais código.
 
-- Cada aplicativo tem sua area de trabalho privada, onde todos os arquivos ficam dentro do próprio aplicativo, sendo que pode salvar na área publica caso seja uma opção desejada.
-- 
-
+Shared Preference
+- Grava chave + valor.
+- Pode se utilizar para gravar configurações locais.
+- Quando reinstala ele recria essas informações.
+- Muito utilizado para preferencias.
+- Pode utilizar também como cache.
+- Mais fácil de usar e não precisa configurar nada.
 
