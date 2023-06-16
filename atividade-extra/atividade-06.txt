@@ -27,3 +27,7 @@ Shared Preference
 - Pode utilizar também como cache.
 - Mais fácil de usar e não precisa configurar nada.
 
+API
+- É necessário utilizar internet sempre.
+- Suporta maior quantidade de dados
+- Utiliza muito pouco espaço do dispositivo
